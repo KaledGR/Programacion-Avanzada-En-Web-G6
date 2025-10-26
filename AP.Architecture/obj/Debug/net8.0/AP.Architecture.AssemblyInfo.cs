@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AP.Architecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dd7ccf1de667e399250e587d0c20e1998ab1273")]
 [assembly: System.Reflection.AssemblyProductAttribute("AP.Architecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AP.Architecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

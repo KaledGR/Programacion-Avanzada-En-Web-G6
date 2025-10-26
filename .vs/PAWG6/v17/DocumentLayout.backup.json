@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF109DB1-2CD3-40EB-B4A7-1BFFD7FB5BED}|AP.ServiceLocator\\AP.ServiceLocator.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.servicelocator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF109DB1-2CD3-40EB-B4A7-1BFFD7FB5BED}|AP.ServiceLocator\\AP.ServiceLocator.csproj|solutionrelative:ap.servicelocator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839EBE11-EA8A-4E7B-A1E4-8CF9CB3036ED}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.models\\dtos\\sourceitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839EBE11-EA8A-4E7B-A1E4-8CF9CB3036ED}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\sourceitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839EBE11-EA8A-4E7B-A1E4-8CF9CB3036ED}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.models\\dtos\\sourcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839EBE11-EA8A-4E7B-A1E4-8CF9CB3036ED}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\sourcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839EBE11-EA8A-4E7B-A1E4-8CF9CB3036ED}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839EBE11-EA8A-4E7B-A1E4-8CF9CB3036ED}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.api\\controllers\\sourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\sourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.api\\controllers\\sourceitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\sourceitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31E62D2-66B4-4D50-84B5-6D6DB2D221A0}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.core\\businesslogic\\taskbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31E62D2-66B4-4D50-84B5-6D6DB2D221A0}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\taskbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31E62D2-66B4-4D50-84B5-6D6DB2D221A0}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.core\\businesslogic\\sourcebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31E62D2-66B4-4D50-84B5-6D6DB2D221A0}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\sourcebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31E62D2-66B4-4D50-84B5-6D6DB2D221A0}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.core\\businesslogic\\sourceitembusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31E62D2-66B4-4D50-84B5-6D6DB2D221A0}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\sourceitembusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.data\\repositories\\repositorysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.data\\repositories\\repositorysourceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorysourceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.data\\repositories\\repositorytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D0EBA7-2A00-41C1-8AB3-EBAD60454CF9}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\pawg6\\ap.api\\ap.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DE3F36A-E2FF-459B-961C-37B0959AD242}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\ap.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +79,209 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "AP.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Class1.cs",
-              "RelativeToolTip": "AP.Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.ServiceLocator\\appsettings.json",
+              "RelativeDocumentMoniker": "AP.ServiceLocator\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.ServiceLocator\\appsettings.json*",
+              "RelativeToolTip": "AP.ServiceLocator\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T20:32:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SourceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Models\\DTOs\\SourceDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\SourceDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Models\\DTOs\\SourceDTO.cs*",
+              "RelativeToolTip": "AP.Models\\DTOs\\SourceDTO.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T01:49:41.492Z",
+              "WhenOpened": "2025-10-26T20:29:27.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SourceItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Models\\DTOs\\SourceItemDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\SourceItemDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Models\\DTOs\\SourceItemDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\SourceItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:29:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Models\\DTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\TaskDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Models\\DTOs\\TaskDTO.cs*",
+              "RelativeToolTip": "AP.Models\\DTOs\\TaskDTO.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:29:05.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SourceController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\Controllers\\SourceController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\SourceController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\Controllers\\SourceController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\SourceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:24:35.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SourceItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\Controllers\\SourceItemController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\SourceItemController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\Controllers\\SourceItemController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\SourceItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:22:37.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\Program.cs",
+              "RelativeToolTip": "AP.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:21:24.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:14:53.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SourceBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Core\\BusinessLogic\\SourceBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\SourceBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Core\\BusinessLogic\\SourceBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\SourceBusiness.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:13:06.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SourceItemBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Core\\BusinessLogic\\SourceItemBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\SourceItemBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Core\\BusinessLogic\\SourceItemBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\SourceItemBusiness.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:02:32.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Core\\BusinessLogic\\TaskBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\TaskBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Core\\BusinessLogic\\TaskBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\TaskBusiness.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:00:15.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositorySource.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Repositories\\RepositorySource.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositorySource.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Repositories\\RepositorySource.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositorySource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:57:34.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositorySourceItem.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Repositories\\RepositorySourceItem.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositorySourceItem.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Repositories\\RepositorySourceItem.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositorySourceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:56:02.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryTask.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Repositories\\RepositoryTask.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryTask.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Repositories\\RepositoryTask.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryTask.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:54:07.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Data\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:52:20.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AP.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\AP.Api.csproj",
+              "RelativeDocumentMoniker": "AP.Api\\AP.Api.csproj",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Api\\AP.Api.csproj",
+              "RelativeToolTip": "AP.Api\\AP.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T01:51:36.325Z",
               "EditorCaption": ""
             }
           ]

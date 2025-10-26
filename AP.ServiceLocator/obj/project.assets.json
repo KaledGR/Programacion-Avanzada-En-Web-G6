@@ -88,6 +88,26 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "AP.Architecture/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AP.Architecture.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AP.Architecture.dll": {}
+        }
+      },
+      "AP.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AP.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AP.Models.dll": {}
+        }
       }
     }
   },
@@ -439,10 +459,22 @@
         "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "AP.Architecture/1.0.0": {
+      "type": "project",
+      "path": "../AP.Architecture/AP.Architecture.csproj",
+      "msbuildProject": "../AP.Architecture/AP.Architecture.csproj"
+    },
+    "AP.Models/1.0.0": {
+      "type": "project",
+      "path": "../AP.Models/AP.Models.csproj",
+      "msbuildProject": "../AP.Models/AP.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AP.Architecture >= 1.0.0",
+      "AP.Models >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -477,7 +509,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Architecture\\AP.Architecture.csproj": {
+              "projectPath": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Architecture\\AP.Architecture.csproj"
+            },
+            "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Models\\AP.Models.csproj": {
+              "projectPath": "C:\\Users\\Kaled\\source\\repos\\PAWG6\\AP.Models\\AP.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
